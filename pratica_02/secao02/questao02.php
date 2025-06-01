@@ -19,7 +19,7 @@ if($temperatura > 0){
 </head>
 <body>
     <p>Questão 02</p>
-    <h2>Temperatura informada é <?php echo $temperatura; ?>°.</h2>
+    <h2>Temperatura informada é <?php echo $temperatura; ?>°. <br></h2>
     <h2>A temperatura é: <?php echo $mensagem; ?>.</h2>
 </body>
 </html>
